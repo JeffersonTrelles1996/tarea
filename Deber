@@ -1,0 +1,26 @@
+{
+" Estudiante": [
+{"id" : 01, "nombre" : "Jaime", "apellido" : "Sumba", "direccion": "Azogues" ,"Genero" : "Masculino"},
+{"id" : 02, "nombre" : "Erick", "apellido" : "Peralta", "direccion": "Azogues" ,"Genero" : "Masculino"},
+{"id" : 03, "nombre" : " Bryan", "apellido" : "Sumba", "direccion": "Azogues" ,"Genero" : "Masculino"},
+{"id" : 04, "nombre" : "Jonathan", "apellido" : "Peralta", "direccion": "Azogues" ,"Genero" : "Masculino"},
+{"id" : 05, "nombre" : "Freddy", "apellido" : "Herrera", "direccion": "Azogues" ,"Genero" : "Masculino"},
+{"id" : 06, "nombre" : "Jovany", "apellido" : "Herrera", "direccion": "Azogues" ,"Genero" : "Masculino"},
+{"id" : 07, "nombre" : "Agustin", "apellido" : "Ortega", "direccion": "Azogues" ,"Genero" : "Masculino"},
+{"id" : 08, "nombre" : "Jefferson", "apellido" : "Trelles", "direccion": "Paute" ,"Genero" : "Masculino"},
+{"id" : 09, "nombre" : "Jose", "apellido" : "Campoverde", "direccion": "Azogues" ,"Genero" : "Masculino"},
+{"id" : 10, "nombre" : "Estela", "apellido" : "Lata", "direccion": "Azogues" ,"Genero" : "Femenino"},
+{"id" : 11, "nombre" : "Guadalupe", "apellido" : "Astudillo", "direccion": "Sigsig" ,"Genero" : "Femenino"},
+{"id" : 12, "nombre" : "Karol", "apellido" : "Peñafiel", "direccion": "Azogues" ,"Genero" : "Femenino"},
+{"id" : 13, "nombre" : "Lorena", "apellido" : "Dutan", "direccion": "Azogues" ,"Genero" : "Femenino"},
+{"id" : 14, "nombre" : "Mercy", "apellido" : "Sumba", "direccion": "Azogues" ,"Genero" : "Femenino"},
+]
+"Profesor":[
+{"id" : 001, "Nombre" : "Mauricio", "apellido" : "Palomino", "Pprofesion": "Ingeniero" ,"cedula" : "0398123456"},
+{"id" : 002, "Nombre" : "Adrian", "apellido" : "Palomino", "Pprofesion": "Ingeniero" ,"cedula" : "0300122356"},
+{"id" : 003, "Nombre" : "Javier", "apellido" : "Palomino", "Pprofesion": "Ingeniero" ,"cedula" : "0397123450"},
+{"id" : 004, "Nombre" : "Cristina", "apellido" : "Palomino", "Pprofesion": "Ingeniero" ,"cedula" : "0309127451"},
+{"id" : 005, "Nombre" : "Alexandra", "apellido" : "Palomino", "Pprofesion": "Licenciada" ,"cedula" : "0103487012"},
+{"id" : 006, "Nombre" : "Juan Pablo", "apellido" : "Palomino", "Pprofesion": "Ingeniero" ,"cedula" : "0108123456"},
+]
+
